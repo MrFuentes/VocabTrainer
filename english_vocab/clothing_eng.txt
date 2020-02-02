@@ -1,0 +1,12 @@
+hat
+dress
+suit
+skirt
+shirt
+t-shirt
+pants
+shoes
+pocket
+coat
+stain
+clothing
