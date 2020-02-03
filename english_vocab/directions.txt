@@ -1,0 +1,17 @@
+top
+bottom
+side
+front
+back
+outside
+inside
+up
+down
+left
+right
+straight
+north
+east
+south
+west
+direction

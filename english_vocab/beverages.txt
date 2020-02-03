@@ -1,0 +1,8 @@
+coffee
+tea
+wine
+beer
+juice
+water
+milk
+beverage

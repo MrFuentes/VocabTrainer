@@ -1,0 +1,17 @@
+map
+dot
+consonant
+vowel
+light
+sound
+yes
+no
+piece
+pain
+injury
+hole
+image
+pattern
+noun
+verb
+adjective

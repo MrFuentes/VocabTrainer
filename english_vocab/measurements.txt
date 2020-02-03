@@ -1,0 +1,14 @@
+meter
+centimeter
+kilogram
+inch
+foot(measurement)
+pound(measurement)
+half
+circle
+square
+temperature
+date
+weight
+edge
+corner

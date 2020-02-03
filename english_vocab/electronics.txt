@@ -1,0 +1,12 @@
+clock
+lamp
+fan
+mobile phone
+network
+computer
+program
+laptop
+screen
+camera
+television
+radio

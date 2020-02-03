@@ -1,0 +1,16 @@
+teacher
+student
+lawyer
+doctor
+patient
+waiter
+secretary
+priest
+police
+army
+soldier
+artist
+manager
+reporter
+actor
+job

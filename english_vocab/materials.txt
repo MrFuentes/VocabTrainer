@@ -1,0 +1,13 @@
+glass
+metal
+plastic
+wood
+stone
+diamond
+clay
+dust
+gold
+copper
+silver
+material
+

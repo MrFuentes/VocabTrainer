@@ -1,0 +1,12 @@
+year
+month
+week
+day
+hour
+minute
+second
+morning
+afternoon
+evening
+night
+time

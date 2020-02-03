@@ -1,0 +1,8 @@
+I
+you(singular)
+he
+she
+it
+we
+you(plural)
+they
